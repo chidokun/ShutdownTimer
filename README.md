@@ -12,6 +12,10 @@ Shutdown Timer is a small and easy-to-use tool to countdown timer for shutting d
 * Warn user before execute the task.
 * Vietnamese/English user interface.
 
+##Requirements
+* Windows 7 or later
+* .NET Framework 4.5 or later
+
 ##Screenshots
 ![alt tag](https://raw.githubusercontent.com/chidokun/ShutdownTimer/master/ShutdownTimer/Images/MainWindow.png)
 
